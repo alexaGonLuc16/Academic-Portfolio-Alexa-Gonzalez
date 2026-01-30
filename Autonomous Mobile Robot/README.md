@@ -21,4 +21,5 @@ The project was developed in collaboration with **Manchester Robotics** using RO
 This project demonstrates how AI-based perception and control methods can be combined to enable efficient, real-time autonomous navigation in complex environments.
 
 ## Demo Video
-[Watch the project in action](https://youtu.be/LBnOofO-EP8E)
+[Watch the project in action](LBnOofO-EP8E)
+
