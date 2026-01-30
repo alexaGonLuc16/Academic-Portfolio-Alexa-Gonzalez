@@ -24,9 +24,17 @@ Emphasis was placed on:
 - VHDL
 - Intel FPGA development tools
 
+## AES Control State Machine
+
+The following figure shows the finite state machine (FSM) used to control the AES implementation.  
+It includes the main states of the algorithm as well as the corresponding functional modules involved in each stage of the encryption process.
+
+![AES State Machine](img/State_machine.png)
+
 ## Project Presentation
 A detailed explanation of the system architecture, design decisions, and experimental results is available in the presentation below:
 
 📄 **AES FPGA Design – Technical Presentation**  
 [View presentation](presentation/AES_FPGA_Intel_Presentation.pdf)
+
 
