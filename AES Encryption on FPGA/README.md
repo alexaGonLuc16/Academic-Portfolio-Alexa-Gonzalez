@@ -1,4 +1,5 @@
 # AES Encryption on FPGA (Intel)
+**Duration:** April – June 2024
 
 ## Overview
 This project focuses on the hardware implementation of the Advanced Encryption Standard (AES) algorithm on an Intel FPGA platform using VHDL. The main objective was to design an efficient, modular, and high-performance encryption architecture suitable for resource-constrained and real-time systems.
@@ -28,3 +29,4 @@ A detailed explanation of the system architecture, design decisions, and experim
 
 📄 **AES FPGA Design – Technical Presentation**  
 [View presentation](presentation/AES_FPGA_Intel_Presentation.pdf)
+
