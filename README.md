@@ -6,7 +6,7 @@ This repository showcases selected **academic and technical projects** that high
 
 I am always open to new opportunities and collaborations. You can contact me through:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/alexa-jimena-gonzález)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/alexa-jimena-gonzález](https://www.linkedin.com/in/alexa-jimena-gonzalez-lucio/))
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:alexa.glucio@gmail.com)
 
 Thank you for taking the time to visit my portfolio. I hope you find something that inspires you here!
