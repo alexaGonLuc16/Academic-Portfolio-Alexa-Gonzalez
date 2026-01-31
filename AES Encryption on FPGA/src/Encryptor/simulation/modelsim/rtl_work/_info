@@ -1,0 +1,116 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e vcom 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/ricki/Documents/TEC/4Semestre/QuartusProjects/AES/Encriptador/simulation/modelsim
+T_opt
+!s110 1713980437
+VzOOc5=@D<AMDHzfOc?BZI1
+04 11 9 work addround_tb testbench 1
+=1-28cdc4cff585-6629440f-3a8-51bc
+!s124 OEM10U1 
+o-quiet -auto_acc_if_foreign -work work -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L fiftyfivenm -L rtl_work -L work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+Eaddround_tb
+Z1 w1713978529
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+R0
+Z7 8E:/ricki/Documents/TEC/4Semestre/QuartusProjects/AES/Encriptador/Modules/AddRound/AddRound_tb.vhd
+Z8 FE:/ricki/Documents/TEC/4Semestre/QuartusProjects/AES/Encriptador/Modules/AddRound/AddRound_tb.vhd
+l0
+L22 1
+VfHWE_L:D07aA[daOmG<613
+!s100 Lj9=3`LeJ7OFA[^RUmV4h2
+Z9 OL;C;2021.2;73
+31
+Z10 !s110 1713980428
+!i10b 1
+Z11 !s108 1713980428.000000
+Z12 !s90 -reportprogress|300|-93|-work|work|E:/ricki/Documents/TEC/4Semestre/QuartusProjects/AES/Encriptador/Modules/AddRound/AddRound_tb.vhd|
+Z13 !s107 E:/ricki/Documents/TEC/4Semestre/QuartusProjects/AES/Encriptador/Modules/AddRound/AddRound_tb.vhd|
+!i113 0
+Z14 o-93 -work work
+Z15 tExplicit 1 CvgOpt 0
+Atestbench
+R2
+R3
+R4
+R5
+R6
+DEx4 work 11 addround_tb 0 22 fHWE_L:D07aA[daOmG<613
+!i122 1
+l57
+L25 95
+V096m4_h8YhazTVRNjNGR40
+!s100 Z6XHzDX5nS2W]JLl2>2S`1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+Etop
+Z16 w1713978447
+R2
+R3
+R4
+R5
+R6
+!i122 0
+R0
+Z17 8E:/ricki/Documents/TEC/4Semestre/QuartusProjects/AES/Encriptador/Top.vhd
+Z18 FE:/ricki/Documents/TEC/4Semestre/QuartusProjects/AES/Encriptador/Top.vhd
+l0
+L23 1
+Vnd[b=bOm95>;Fe:efoz=K0
+!s100 MIWL2`hON0V8H^lDUo_zM0
+R9
+31
+Z19 !s110 1713980415
+!i10b 1
+Z20 !s108 1713980415.000000
+Z21 !s90 -reportprogress|300|-93|-work|work|E:/ricki/Documents/TEC/4Semestre/QuartusProjects/AES/Encriptador/Top.vhd|
+Z22 !s107 E:/ricki/Documents/TEC/4Semestre/QuartusProjects/AES/Encriptador/Top.vhd|
+!i113 0
+R14
+R15
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 3 top 0 22 nd[b=bOm95>;Fe:efoz=K0
+!i122 0
+l40
+L35 21
+V9<cTLWakL^Jm>a]N>ThIY1
+!s100 61l6D48aJI3mbBE;ZZZ^71
+R9
+31
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 0
+R14
+R15
