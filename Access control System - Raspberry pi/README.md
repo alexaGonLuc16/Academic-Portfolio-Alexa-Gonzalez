@@ -15,13 +15,6 @@ Such information is valuable for ensuring and improving the overall security of 
 **Note:** The video is narrated in Spanish. English subtitles can be enabled using YouTube’s automatic caption and translation feature.
 
 ---
-
-## 🛠️ Final Prototype
-
-<p align="center">
-  <img src="img/prototype.jfif" alt="Final Prototype Image" width="600"/>
-</p>
-
 ## System Flow Diagram
 
 ### 📖 Diagram Description
@@ -46,5 +39,10 @@ RFID[RFID Reader] -->|Serial Communication| RPI
 CARD[RFID Card] -->|User scans card| RFID
 
 RFID -->|Card ID determines system state| ARD[Arduino Uno]
-
 ARD --> STATUS[Status Indicator Circuit]
+```
+## 🛠️ Final Prototype
+
+<p align="center">
+  <img src="img/prototype.jfif" alt="Final Prototype Image" width="600"/>
+</p>
