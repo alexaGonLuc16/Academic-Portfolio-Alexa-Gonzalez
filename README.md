@@ -14,6 +14,8 @@ This repository showcases selected **academic and technical projects** that high
 - **Technologies**: Python, FastAPI, Raspberry pi 4, Arduino UNO.
 - **Description**: User access control using RFID with a visual interface on a web server.
 
+### [AI Model Compression Research: Structured Pruning in ResNet18](https://github.com/alexaGonLuc16/AI_Model_Compression_Research-Pruning_ResNet18/tree/main)
+
 ## 📫 Contact
 
 I am always open to new opportunities and collaborations. You can contact me through:
